@@ -134,7 +134,7 @@ cplay_5 : "Only Channels are supported."
 cplay_6 : "You need to be the **Owner** of the channel[{0}] to connect it with this group.\n**Channel's Owner:** @{1}\n\nAlternatively you can link your group to that channel and then try connnecting with `/channelplay linked`"
 
 #Play
-play_1 : "🔄 Processing Query... Please Wait!"
+play_1 : "🔄 𝙋𝙧𝙤𝙘𝙚𝙨𝙨𝙞𝙣𝙜 𝙌𝙪𝙚𝙧𝙮... 𝙋𝙡𝙚𝙖𝙨𝙚 𝙒𝙖𝙞𝙩!"
 play_2 : "**🏷Channel Play Mode**\n\n🔄 Processing Query... Please Wait!\n**Linked Channel:** {0}"
 play_3 : "Failed to Process Query!"
 play_4 : "🖇 **Admins Only Play**\nOnly Admins and Auth Users can play music in this group.\n\nChange mode via /playmode and if you're already admin, reload admincache via /admincache"
@@ -258,16 +258,16 @@ PM_B_2 : "InlineMarkup"
 PM_B_3 : "ChannelPlay"
 
 #Play
-P_B_1 : "🎵 Play Audio"
-P_B_2 : "🎥 Play Video"
-P_B_3 : "🏮 Start Live Stream"
-P_B_4 : "🎵 Play Playlist"
+P_B_1 : "🎵 𝙋𝙡𝙖𝙮 𝘼𝙪𝙙𝙞𝙤"
+P_B_2 : "🎥 𝙋𝙡𝙖𝙮 𝙑𝙞𝙙𝙚𝙤"
+P_B_3 : "🏮 𝙨𝙩𝙖𝙧𝙩 𝙇𝙞𝙫𝙚 𝙎𝙩𝙧𝙚𝙖𝙢"
+P_B_4 : "🎵 𝙋𝙡𝙖𝙮 𝙋𝙡𝙖𝙮𝙡𝙞𝙨𝙩"
 
 #Playlist
-PL_B_1 : "🚀 Play Playlist"
-PL_B_2 : "✚ Playlists"
+PL_B_1 : "🚀 𝙋𝙡𝙖𝙮 𝙋𝙡𝙖𝙮𝙡𝙞𝙨𝙩"
+PL_B_2 : "✚ 𝙋𝙡𝙖𝙮𝙡𝙞𝙨𝙩𝙨"
 PL_B_3 : "✚ Additional"
-PL_B_4 : "📡 Play Mode"
+PL_B_4 : "📡 𝙋𝙡𝙖𝙮 𝙈𝙤𝙙𝙚"
 PL_B_5 : "🔄 Del Whole Playlist"
 PL_B_6 : "↗️ Delete Playlist"
 PL_B_7 : "❗️ Yes, I'm sure. Delete it"
